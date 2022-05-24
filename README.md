@@ -1,0 +1,1 @@
+# magma-swagger-api
