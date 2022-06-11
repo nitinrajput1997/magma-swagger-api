@@ -1,5 +1,7 @@
 # magma-swagger-api
 
+![](/magmaAPI.png)
+
 After deploying magma orchestrator we want to access the swagger api.
 
 ### Copy admin_operator.pfx to your local
