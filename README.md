@@ -8,6 +8,8 @@ After deploying magma orchestrator we want to access the swagger api.
 ```bash
 scp ubuntu@192.168.5.92:/home/ubuntu/magma-galaxy/secrets/admin_operator.pfx .
 ```
+If copying a file from server shows the error of "permission denied" then do 'chmod 777 admin_operator.pfx'
+
 ### Import certificate to your browser
 
 ### Swagger API format
